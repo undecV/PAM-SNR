@@ -9,6 +9,7 @@
     ![Figure](./Figure.png)
 
 - ### Code
+    [PAM_SNR.m](./PAM_SNR.m)
     ``` matlab
     ...
     ```
