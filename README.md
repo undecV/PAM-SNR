@@ -28,7 +28,7 @@
     
   - **Contemporary Communication Systems Using MATLAB**
   
-    Author: John G. Proakis，Masoud Salehi，Gerhard Bauch
+    Author: John G. Proakis, Masoud Salehi, Gerhard Bauch
     
     ISBN: 9780495082514
     
